@@ -59,11 +59,3 @@ python app.py  # (for backend)
 💼 LinkedIn: Your LinkedIn Profile
 
 ⭐ If you like this project, consider giving it a star! 🌟
-
-yaml
-Copy
-Edit
-
----
-
-This **README.md** provides a clean, professional look with all necessary details like features, installation, screenshots, and c
